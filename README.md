@@ -1,5 +1,5 @@
+index.php
 ```
-// index.php
 <html>
 <head>
 
@@ -12,10 +12,10 @@
 </body>
 </html>
 ```
-```
+
 //read.php
 //create a file 'flag.php' outside the webroot
-
+```
 <?php
 
     $lang = $_GET["lang"];
