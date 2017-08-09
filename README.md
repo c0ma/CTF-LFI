@@ -13,8 +13,8 @@ index.php
 </html>
 ```
 
-//read.php
-//create a file 'flag.php' outside the webroot
+read.php
+create a file 'flag.php' outside the webroot
 ```
 <?php
 
